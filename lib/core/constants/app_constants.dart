@@ -11,6 +11,7 @@ class AppConstants {
   static const String keyVlcPassword = 'vlc_password';
   static const String keyAutoDetectMode = 'auto_detect_mode';
 
+  static const String keyLanguage = 'app_language';
   static const String keyTouchpadSensitivity = 'touchpad_sensitivity';
   /// Таймауты
   static const Duration connectionTimeout = Duration(seconds: 5);
